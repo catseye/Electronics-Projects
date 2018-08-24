@@ -6,8 +6,8 @@ A 386-based LED blinker
 
 The LM386 audio amplifier IC, that is...
 
-![Photo of LED-386](doc/led386_photo.jpg)
+![Photo of LED-386](doc/led386_photo.jpg?raw=true)
 
-![Schematic of LED-386](doc/led386.png)
+![Schematic of LED-386](doc/led386.png?raw=true)
 
-[Download the .dia file of the schematic](https://github.com/catseye/Electronics-Projects/blob/master/led386/doc/led386.dia?raw=true).
+[Download the .dia file of the schematic](doc/led386.dia?raw=true).

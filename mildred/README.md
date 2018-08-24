@@ -3,7 +3,7 @@ Mildred
 
 *January 10 2003*
 
-![Photo of Mildred](doc/mildred_photo.jpg)
+![Photo of Mildred](doc/mildred_photo.jpg?raw=true)
 
 Mildred is a homebrew computer. Since it is continually changing, this
 document describes both the current state of Mildred, and what it would
@@ -57,7 +57,7 @@ dynamic RAM refresh are not used.
 ### Reset Mechanism
 
 Currently, Mildred must be manually reset after power-on by the reset
-switch (which simply grounds the /RST line of the Z80.) Ideally, a
+switch (which simply grounds the `/RST` line of the Z80.) Ideally, a
 DS1223 reset circuit would be used as to consume neglible real estate on
 the board.
 
@@ -111,7 +111,7 @@ A6, and A7, selecting one of eight input and eight output devices.
 Block Diagram
 -------------
 
-![Block Diagram of Mildred](doc/mildred.png)
+![Block Diagram of Mildred](doc/mildred.png?raw=true)
 
 Testing
 -------

@@ -18,20 +18,15 @@ itself.
 1Q0L
 ----
 
-<div id="figure1">
-
-![The 'Kitsilano' Oscillator
-Circuit](1Q0L_oscillator.png "Figure 1.  A single-transistor (and apparently inductor-less) oscillator.")
+![The 'Kitsilano' Oscillator Circuit](1Q0L_oscillator.png?raw=true)
 
 Figure 1. A single-transistor (and apparently inductor-less) oscillator.
-(From [Sessions 1975](#1)).
-
-</div>
+(From [Sessions 1975](#references)).
 
 The notion of a single-transistor oscillator, built without an inductor,
 tantalized me for a while after I came across what looked like such a
 circuit in a book of somewhat older circuits that I checked out from the
-public library^[\[1\]](#1)^. It is shown in Figure 1. It clearly
+public library ([Sessions 1975](#references)). It is shown in Figure 1. It clearly
 contains only one transistor and no coils, and the caption claims that
 the tone it produces, though not loud, is adequate for keying (that is,
 Morse code) practice. Further, the circuit is organized in a way that
@@ -58,13 +53,9 @@ yet for why it doesn't work without one.
 The Design of the Kitsilano Oscillator
 --------------------------------------
 
-<div id="figure2">
+![The 'Kitsilano' Oscillator Circuit](kitsilano.png?raw=true)
 
-![The 'Kitsilano' Oscillator
-Circuit](kitsilano.png "Figure 2.  The 'Kitsilano' Oscillator Circuit.")
 Figure 2. The 'Kitsilano' Oscillator Circuit.
-
-</div>
 
 Having given up on a single-transistor, inductorless oscillator, and
 discovering in other library books several single-transistor,
@@ -77,7 +68,7 @@ type, and two capacitors. Each transistor-capacitor pair acts as a timer
 which triggers the other pair when it has discharged. Another design
 involves only a single capacitor, but two transistors of complimentary
 type (NPN and PNP.) Many circuits based on both of these oscillator
-designs can be found in Mims^[\[2\]](#1)^.
+designs can be found in [Mims 2003](#references).
 
 Well, what I wanted was an oscillator built from two transistors of the
 *same* type, but incorporating only *one* capacitor. This effort
@@ -90,7 +81,7 @@ together to form an inverter.). One of the inverters is fed its own
 output through an RC circuit, and the other inverter is used to
 stabilize the feedback and "square off" the output. Circuits
 incorporating this oscillator design can also be found in
-Mims^[\[2\]](#1)^.
+[Mims 2003](#references).
 
 (In fact, it's not required that such an oscillator be constructed from
 CMOS gates. [This figure](2NOR_oscillator.png) shows a circuit along the
