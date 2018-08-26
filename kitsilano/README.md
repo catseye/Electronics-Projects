@@ -117,9 +117,8 @@ the same function as the resistance?) so I kept it in.
 References
 ----------
 
-1.  [Kendall Webster Sessions, ed. *Master handbook of 1001 practical
+1.  Kendall Webster Sessions, ed. *Master handbook of 1001 practical
     electronic circuits.* Blue Ridge Summit, Pa. : G/L Tab
-    Books, 1975.]()
-2.  [Forrest Mims III. *Getting Started in Electronics*. Master
-    Publishing, Inc., 2003. ISBN 0945053282.]()
-
+    Books, 1975.
+2.  Forrest Mims III. *Getting Started in Electronics*. Master
+    Publishing, Inc., 2003. ISBN 0945053282.
